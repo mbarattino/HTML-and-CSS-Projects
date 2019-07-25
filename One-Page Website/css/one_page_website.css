@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif, arial, helvetica;
+    font-size: 100%;
+}
+
+
+.contact form{
+width: 20%;
+margin: 20px;
+border: 2px solid red;
+border-radius: 10px;
+}
+
+.contact input[type="text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: gray;
+    padding: 2% 1% 2% 7%;
+    width: 80%;
+    margin: 10px 1em;
+    border-radius: 7px;
+    background: black;
+}
+
+.submit input[type="submit"] {
+    color: lightgray;
+    cursor: pointer;
+    font-weight: 900;
+    text-align: center;
+    margin: 5px 4%;
+    padding: 10px 0px;
+    width: 50%;
+    font-size: 14px;
+    border-radius: 7px;
+    background-color: gray;
